@@ -12,7 +12,7 @@ import de.renichie.wwht.databinding.FragmentMainBinding
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
-class FirstFragment : Fragment() {
+class MainFragment : Fragment() {
 
     private var _binding: FragmentMainBinding? = null
 

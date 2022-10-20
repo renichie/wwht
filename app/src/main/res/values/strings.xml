@@ -2,14 +2,28 @@
     <string name="app_name">Who would have thought</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
+    <string name="first_fragment_label">Main Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
     <string name="hello_first_fragment">0</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+<!--    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>-->
+    <string name="hello_second_fragment">Hello second fragment. </string>
     <string name="random_button_text">Random</string>
     <string name="next_button_text">Next</string>
     <string name="toast_button_text">Count</string>
+    <string name="txt1">This is text ONE</string>
+    <string name="txt2">now this is a really long text used for finding out how to style text in android text fields. we will see.</string>
+
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
 </resources>
